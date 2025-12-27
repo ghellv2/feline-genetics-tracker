@@ -1,0 +1,6 @@
+parents:
+  - fluffy.yaml
+  - mittens.yaml
+kittens:
+  - patches.yaml
+  # Other hypothetical kittens could be added here
