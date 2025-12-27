@@ -1,0 +1,5 @@
+name: Mittens
+sex: male (XY)
+genotype_coat: X^B Y
+phenotype_coat: Black
+notes: "Only one X chromosome, so no X-inactivation. The B allele is expressed."
