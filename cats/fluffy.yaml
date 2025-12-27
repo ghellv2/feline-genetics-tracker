@@ -1,0 +1,5 @@
+name: Fluffy
+sex: female (XX)
+genotype_coat: X^B X^O  # B=Black, O=Orange
+phenotype_coat: Tortoiseshell
+notes: "One X chromosome is randomly inactivated in each cell, leading to patches of black and orange fur."
